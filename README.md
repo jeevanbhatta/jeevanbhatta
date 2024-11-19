@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jeevan Bhatta
 
-I'm a CS and AI major at **Minerva University**, passionate about using technology to solve the challenges of the most underdeveloped regions of the world. I’ve lived and worked in \*\*five countries 🇺🇸🇳🇵🇰🇷🇩🇪🇦🇷\*\*, developing technical expertise and intercultural skills.
+I'm a CS and AI major at **Minerva University**, passionate about using technology to solve the challenges of the most underdeveloped regions of the world. I’ve lived and worked in **five countries** 🇺🇸🇳🇵🇰🇷🇩🇪🇦🇷, developing technical expertise and intercultural skills.
 
 ### 🌍 Experiences & Projects
 
