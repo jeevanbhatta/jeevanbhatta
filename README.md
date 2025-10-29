@@ -24,7 +24,7 @@ I'm a CS and AI major at **Minerva University**, passionate about using technolo
 
 - **Quantum Computing**
 - More Machine Learning Algorithms
-- **Mandarin**🇪🇸
+- **Mandarin**
 
 ### 📫 Connect with Me
 
